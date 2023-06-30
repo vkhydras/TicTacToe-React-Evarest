@@ -1,7 +1,7 @@
 {
   "name": "my-react-app",
   "version": "0.1.0",
-  "homepage": "https://vkhydras..github.io/TicTacToe-React-Evarest",
+  "homepage": "https://vkhydras.github.io/TicTacToe-React-Evarest",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
