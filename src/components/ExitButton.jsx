@@ -1,3 +1,6 @@
+//Renders an exit button that closes the current window
+//Created by Alvin
+
 import React from "react"
 
 export default function ExitBtn(props) {
